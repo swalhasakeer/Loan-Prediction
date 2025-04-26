@@ -7,3 +7,5 @@ It serves two primary purposes:
 Risk Score Regression: To predict a continuous risk score associated with each individual's likelihood of loan default or financial instability.
 
 Binary Classification: To determine the binary outcome of loan approval, indicating whether an applicant is likely to be approved or denied for a loan.
+
+![image](https://github.com/user-attachments/assets/d378f184-7572-410b-bbe1-7595e00f133c)
